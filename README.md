@@ -1,8 +1,13 @@
 # PostmanDemo
 
 # Disclaimer:
-This demo assumes that you have some familiraty with JavaScript, Postman UI, API action Verbes (POST, PUT, GET, DELETE), and JSON objects.
-
+This demo assumes that you have some familiraty with 
+<ul>
+<li>JavaScript</li>
+<li>Postman UI</li>
+<li>API action Verbes (POST, PUT, GET, DELETE)</li>
+<li>JSON objects</li>
+</ul>
 
 Using from following Fake online REST API for building collections, prototyping and testing
 - https://jsonplaceholder.typicode.com
