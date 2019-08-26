@@ -1,11 +1,13 @@
 # PostmanDemo
 
 # Disclaimer:
-This demo assumes that you have some familiraty with JavaScript, Postman UI, API action Verbes (POST, PUT, GET, DELETE), and JSON objects.
+<p>This demo assumes that you have some familiraty with JavaScript, Postman UI, API action Verbes 
+(POST, PUT, GET, DELETE), 
+and JSON objects.</p>
 
 
-Using from following Fake online REST API for building collections, prototyping and testing
-- https://jsonplaceholder.typicode.com
+<p>Using from following Fake online REST API for building collections, prototyping and testing</p>
+ <code>https://jsonplaceholder.typicode.com</code>
 
 I will be using Postman on desktop version with Visual Code IDE to develope, however, you may use any IDE that supports JavaScript or you are familiar with
 Install node.js
@@ -13,6 +15,7 @@ Install node.js
 Installing Newmam
 - For local use within the project use: <strong> npm i newman </strong>
 - For global use use: npm i newman -g
+
 <table>
     <thead>
         <tr>
@@ -36,6 +39,9 @@ Installing Newmam
             <td><strong>Newman Html Report</strong></td>
             <td><code>npm install newman-reporter-html</code></td>
             <td><code>npm install -g newman-reporter-html</code></td>
+        </tr>
+        <tr>
+        <td><strong></strong></td>
         </tr>
     </tbody>
 </table>
