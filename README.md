@@ -17,6 +17,24 @@ API Verbs:
          <th>Quick Definition</th>
         </tr>
     </thead>
+    <tbody>
+    <tr>
+        <td>POST</td>
+        <td></td>    
+    </tr>
+        <tr>
+        <td>PUT</td>
+        <td></td>    
+    </tr>
+        <tr>
+        <td>GET</td>
+        <td></td>    
+    </tr>
+        <tr>
+        <td>DELETE</td>
+        <td></td>    
+    </tr>
+    </tbody>
 </table>
 (POST, PUT, GET, DELETE)
 
