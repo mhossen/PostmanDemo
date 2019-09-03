@@ -19,7 +19,7 @@ API Verbs:
     </thead>
     <tbody>
     <tr>
-        <td style="color: orange">POST</td>
+        <td style="color: orange;">POST</td>
         <td>To create a new entry of data</td>
     </tr>
         <tr>
