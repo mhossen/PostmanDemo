@@ -20,23 +20,22 @@ API Verbs:
     <tbody>
     <tr>
         <td>POST</td>
-        <td></td>    
+        <td>To create a new entry of data.</td>
     </tr>
         <tr>
         <td>PUT</td>
-        <td></td>    
+        <td>Update an exsting data</td>    
     </tr>
-        <tr>
+    <tr>
         <td>GET</td>
-        <td></td>    
+        <td>Retrieves data</td>
     </tr>
         <tr>
         <td>DELETE</td>
-        <td></td>    
+        <td>Delete an entry</td>
     </tr>
     </tbody>
 </table>
-(POST, PUT, GET, DELETE)
 
 Using from following Fake online REST API for building collections, prototyping and testing
 - https://jsonplaceholder.typicode.com
