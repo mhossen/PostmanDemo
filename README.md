@@ -32,7 +32,7 @@ API Verbs:
     </tr>
         <tr>
         <td>DELETE</td>
-        <td>Delete's entry</td>
+        <td>Delete's data</td>
     </tr>
     </tbody>
 </table>
@@ -66,9 +66,14 @@ Installing Newmam
             <td><code>npm i newman -g</code></td>
         </tr>
         <tr>
-            <td><strong>Newman Html Report</strong></td>
+            <td><strong>Newman Html Report (Optional)</strong></td>
             <td><code>npm install newman-reporter-html</code></td>
             <td><code>npm install -g newman-reporter-html</code></td>
+        </tr>
+        <tr>
+            <td><strong>Html Extra</strong></td>
+           <td><code>npm install newman-reporter-htmlextra</code></td>
+           <td><code>npm install -g newman-reporter-htmlextra</code></td>
         </tr>
         <tr>
             <td><strong>Postman</strong></td>
