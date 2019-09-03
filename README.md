@@ -20,11 +20,11 @@ API Verbs:
     <tbody>
     <tr>
         <td>POST</td>
-        <td>To create a new entry of data.</td>
+        <td>To create a new entry of data</td>
     </tr>
         <tr>
         <td>PUT</td>
-        <td>Update an exsting data</td>    
+        <td>Updates exsting data</td>
     </tr>
     <tr>
         <td>GET</td>
@@ -32,7 +32,7 @@ API Verbs:
     </tr>
         <tr>
         <td>DELETE</td>
-        <td>Delete an entry</td>
+        <td>Delete's entry</td>
     </tr>
     </tbody>
 </table>
